@@ -1,0 +1,34 @@
+html{
+    background-color: beige;
+}
+h1 {
+    color:aquamarine;
+    text-decoration: wavy;
+}
+h1:hover{
+    color: wheat;
+}
+.content {
+    color: indianred;
+}
+.content:hover{
+      color:tan;
+}
+.content1 {
+    color: palevioletred;
+}
+.content1:hover{
+    color: khaki;
+}
+.content2 {
+    color: blueviolet;
+}
+.content2:hover {
+    color:forestgreen;
+}
+.footer {
+    color: brown;
+}
+.footer:hover {
+    color:blue;
+}
